@@ -22,11 +22,11 @@ Hey, my name is Akansh Maurya and I am a student pursuing electrical engineering
   </td>
   
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-    <a href="https://www.iitb.ac.in/"><img src = "images/iit_logo.jpg" width="40%"></a>
+    <a href="https://www.iitb.ac.in/"><img src = "images/iit_logo.png" width="40%"></a>
   </td>
   
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-    <a href="https://spire.ee.iisc.ac.in/"><img src = "images/iisc_logo.png" width="40%"></a>
+    <a href="https://spire.ee.iisc.ac.in/"><img src = "images/iisc_logo.jpg" width="40%"></a>
   </td>
   
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
@@ -34,9 +34,6 @@ Hey, my name is Akansh Maurya and I am a student pursuing electrical engineering
   </td>  
   
 </tr>
-
-  <tr>
-
 
   <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">B.Tech, Electrical Engineering<br>IET Lucknow<br>2017 - 2021</td>
 
