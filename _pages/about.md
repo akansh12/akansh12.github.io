@@ -26,11 +26,11 @@ Hey, my name is Akansh Maurya and I am a student pursuing electrical engineering
   </td>
   
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-    <a href="https://spire.ee.iisc.ac.in/"><img src = "images/iisc_logo.jpg" width="40%"></a>
+    <a href="https://spire.ee.iisc.ac.in/"><img src = "images/iisc_logo.png" width="40%"></a>
   </td>
   
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-    <a href="https://rbcdsai.iitm.ac.in/"><img src = "/img/uqtr.jpg" width="40%"></a>
+    <a href="https://rbcdsai.iitm.ac.in/"><img src = "images/rbcdsai_logo.jpg" width="40%"></a>
   </td>  
   
 </tr>
@@ -46,11 +46,11 @@ Hey, my name is Akansh Maurya and I am a student pursuing electrical engineering
 
   <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-present</td>
 
-  </tr>
+</tr>
 
   </table>
   
-  </div>
+</div>
 
 
 
