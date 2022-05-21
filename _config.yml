@@ -83,10 +83,10 @@ author:
   name             : "Akansh Maurya"
   avatar           : "profile.png"
   bio              : "Deep Learning and AI Researcher | Aspiring Entrepreneur"
-  location         : "Researcher"
+  # location         : "Researcher"
   employer         :  "Robert Bosch lab, IIT Madras"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=UcIinfgAAAAJ&hl=en&oi=ao"
   email            :  akanshmaurya@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _publications
   - scope:
       path: ""
@@ -229,7 +229,7 @@ defaults:
       comments: true
   # _portfolio
   - scope:
-      path: ""
+      path: "https://akansh12.github.io/blogs/"
       type: portfolio
     values:
       layout: single
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Calcutta  # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
