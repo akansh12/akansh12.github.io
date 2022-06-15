@@ -55,6 +55,6 @@ Recently I have started writing blogs/tutorial which are focused on use of Pytor
 
 News and Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
