@@ -53,25 +53,8 @@ Recently I have started writing blogs/tutorial which are focused on use of Pytor
   
 </div>
 
-
-
-<!-- <tr>
-  
-  
-  <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-    <a href="https://www.ietlucknow.ac.in/"><img src = "images/iet_logo.png" width="40%"></a>
-  </td>
-  
-  <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-    <a href="https://www.iitb.ac.in/"><img src = "images/iit_logo.jpg" width="40%"></a>
-  </td>
-  
-  <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-    <a href="https://spire.ee.iisc.ac.in/"><img src = "images/iisc_logo.jpg" width="40%"></a>
-  </td>
-  
-  <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-    <a href="https://rbcdsai.iitm.ac.in/"><img src = "/img/uqtr.jpg" width="40%"></a>
-  </td>
-  
-  </tr> -->
+News and Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
