@@ -13,6 +13,8 @@ Hey, My name is Akansh Maurya. I am pursuing MS in [Visual Computing](https://ww
 
 My life is continuously motivated by two ancient concepts of [Tyāga](https://en.wikipedia.org/wiki/Ty%C4%81ga) (Sanskrit: त्याग), which is a [Sanskrit](https://en.wikipedia.org/wiki/Sanskrit) word that means **sacrifice**, and [Tāpasya](https://www.wisdomlib.org/definition/tapasya) (Sanskrit: तपस्), which loosely translates to the art of self-control, and suffering physically and mentally to metamorphose our self. I try my best to follow them firmly.
 
+
+
 <br />
 
 <div class = "row">
@@ -20,32 +22,33 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
   <table class = 'about-edu'>
 
 <tr>
-  
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-    <a href="https://www.ietlucknow.ac.in/"><img src = "images/iet_logo.png" width="40%"></a>
-  </td>
-  
+      <a href="https://rbcdsai.iitm.ac.in/"><img src = "images/rbcdsai_logo.jpg" width="40%"></a>
+    </td> 
+
+  <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
+      <a href="https://spire.ee.iisc.ac.in/"><img src = "images/iisc_logo.jpg" width="40%"></a>
+    </td>
+
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
     <a href="https://www.iitb.ac.in/"><img src = "images/iit_logo.png" width="40%"></a>
   </td>
-  
+
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-    <a href="https://spire.ee.iisc.ac.in/"><img src = "images/iisc_logo.jpg" width="40%"></a>
-  </td>
-  
-  <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-    <a href="https://rbcdsai.iitm.ac.in/"><img src = "images/rbcdsai_logo.jpg" width="40%"></a>
-  </td>  
+    <a href="https://www.ietlucknow.ac.in/"><img src = "images/iet_logo.png" width="40%"></a>
+  </td>    
 </tr>
+
+
 <tr>
 
-  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">B.Tech, Electrical Engineering<br>IET Lucknow<br>2017 - 2021</td>
-
-  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Research Intern<br>IIT Bombay<br>Summer 2020</td>
+  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
 
   <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Research Intern<br>SPIRE Labs, IISc Bangalore<br>2020 - 2021</td>
 
-  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
+  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Research Intern<br>IIT Bombay<br>Summer 2020</td>
+
+  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">B.Tech, Electrical Engineering<br>IET Lucknow<br>2017 - 2021</td>
 
 </tr>
 
