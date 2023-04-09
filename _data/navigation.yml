@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "news"
+  - title: "News and Talks"
     url: /talks/    
 
   # - title: "Teaching"
@@ -15,7 +15,7 @@ main:
   # - title: "Karma(Blogs)"
   #   url: https://akansh12.github.io/confession-of-a-coding-freak/
     
-  - title: "CV"
+  - title: "Resume"
     url: https://github.com/akansh12/akansh_resume_latex/blob/main/Akansh_Maurya_CV_FEB_23.pdf
     
   # - title: "Guide"
