@@ -84,8 +84,8 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
   
 </div>
 
-<!-- News and Talks
+News and Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
