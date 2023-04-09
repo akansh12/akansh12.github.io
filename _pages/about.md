@@ -14,6 +14,9 @@ Hey, My name is Akansh Maurya. I am pursuing MS in [Visual Computing](https://ww
 My life is continuously motivated by two ancient concepts of [Tyāga](https://en.wikipedia.org/wiki/Ty%C4%81ga) (Sanskrit: त्याग), which is a [Sanskrit](https://en.wikipedia.org/wiki/Sanskrit) word that means **sacrifice**, and [Tāpasya](https://www.wisdomlib.org/definition/tapasya) (Sanskrit: तपस्), which loosely translates to the art of self-control, and suffering physically and mentally to metamorphose our self. I try my best to follow them firmly.
 
 
+**Research interest**: Deep Learning, Computer vision, and the application of AI
+**Hobbies:** : Badminton, [Chess](https://www.chess.com/stats/live/rapid/halfcursed/0), and running.
+
 
 <br />
 
@@ -22,6 +25,19 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
   <table class = 'about-edu'>
 
 <tr>
+
+  <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
+      <a href="https://rbcdsai.iitm.ac.in/"><img src = "images/rbcdsai_logo.jpg" width="40%"></a>
+    </td> 
+  
+  <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
+      <a href="https://rbcdsai.iitm.ac.in/"><img src = "images/rbcdsai_logo.jpg" width="40%"></a>
+    </td> 
+
+  <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
+        <a href="https://www.sonyresearchindia.com/"><img src = "images/sony-logo.png" width="40%"></a>
+    </td> 
+  
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
       <a href="https://rbcdsai.iitm.ac.in/"><img src = "images/rbcdsai_logo.jpg" width="40%"></a>
     </td> 
@@ -41,6 +57,11 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
 
 
 <tr>
+  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
+
+  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
+
+  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
 
   <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
 
