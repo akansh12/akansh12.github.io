@@ -19,9 +19,6 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
 **Hobbies**: Badminton, [Chess](https://www.chess.com/stats/live/rapid/halfcursed/0), and running.
 
 **Career**:
-
-<br />
-
 <div class = "row">
  
   <table class = 'about-edu'>
