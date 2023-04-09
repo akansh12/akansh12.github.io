@@ -15,6 +15,7 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
 
 
 **Research interest**: Deep Learning, Computer vision, and the application of AI
+
 **Hobbies:** : Badminton, [Chess](https://www.chess.com/stats/live/rapid/halfcursed/0), and running.
 
 
@@ -25,7 +26,6 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
   <table class = 'about-edu'>
 
 <tr>
-
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
       <a href="https://rbcdsai.iitm.ac.in/"><img src = "images/rbcdsai_logo.jpg" width="40%"></a>
     </td> 
@@ -36,8 +36,19 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
 
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
         <a href="https://www.sonyresearchindia.com/"><img src = "images/sony-logo.png" width="40%"></a>
-    </td> 
-  
+    </td>     
+</tr>
+
+
+<tr>
+  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
+
+  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
+
+  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
+</tr>
+
+<tr>
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
       <a href="https://rbcdsai.iitm.ac.in/"><img src = "images/rbcdsai_logo.jpg" width="40%"></a>
     </td> 
@@ -52,17 +63,10 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
 
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
     <a href="https://www.ietlucknow.ac.in/"><img src = "images/iet_logo.png" width="40%"></a>
-  </td>    
+  </td>
 </tr>
 
-
 <tr>
-  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
-
-  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
-
-  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
-
   <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
 
   <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Research Intern<br>SPIRE Labs, IISc Bangalore<br>2020 - 2021</td>
@@ -70,10 +74,9 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
   <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Research Intern<br>IIT Bombay<br>Summer 2020</td>
 
   <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">B.Tech, Electrical Engineering<br>IET Lucknow<br>2017 - 2021</td>
-
 </tr>
 
-  </table>
+</table>
   
 </div>
 
