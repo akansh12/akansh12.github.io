@@ -12,11 +12,11 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Karma(Blogs)"
-    url: https://akansh12.github.io/confession-of-a-coding-freak/
+  # - title: "Karma(Blogs)"
+  #   url: https://akansh12.github.io/confession-of-a-coding-freak/
     
   - title: "CV"
-    url: /cv/
+    url: https://github.com/akansh12/akansh_resume_latex/blob/main/Akansh_Maurya_CV_FEB_23.pdf
     
   # - title: "Guide"
   #   url: /markdown/

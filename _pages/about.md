@@ -16,9 +16,9 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
 
 **Research interest**: Deep Learning, Computer vision, and the application of AI
 
-**Hobbies:** : Badminton, [Chess](https://www.chess.com/stats/live/rapid/halfcursed/0), and running.
+**Hobbies** : Badminton, [Chess](https://www.chess.com/stats/live/rapid/halfcursed/0), and running.
 
-
+**Career** :
 <br />
 
 <div class = "row">
