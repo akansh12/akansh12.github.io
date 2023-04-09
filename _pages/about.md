@@ -73,7 +73,7 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
 </tr>
 
 <tr>
-  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br> Deep Learning Software Engineer<br>Apr-May 2021</td>
+  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Deep Learning Software Engineer<br> AiBorne Tech<br>Apr-May 2021</td>
 
   <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Research Intern<br>SPIRE Labs, IISc Bangalore<br>2020 - 2021</td>
 

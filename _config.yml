@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Akansh Maurya (he/him)"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Akansh Maurya"
 description              : &description "personal description"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Akansh Maurya"
   avatar           : "profile.png"
-  bio              : "Researcher"
+  bio              : "Researcher| Aspiring Entrepreneur"
   # location         : "Researcher"
-  employer         :  "Universität des Saarlandes"
+  employer         :  "Universität des Saarlandes, Germany"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UcIinfgAAAAJ&hl=en&oi=ao"
   email            :  akanshmaurya@gmail.com
