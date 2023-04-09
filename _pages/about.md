@@ -11,9 +11,9 @@ redirect_from:
 
 Hey, My name is Akansh Maurya. I am pursuing MS in [Visual Computing](https://www.mia.uni-saarland.de/mvc/index.shtml)  from the [University of Saarland](https://saarland-informatics-campus.de/en/). My research interest lies in the application of AI to solve real-world problems. Along with my studies, I am working as a HiWi (research assistant) under the guidance of [Prof. Ingmar Weber](https://ingmarweber.de/) on topics related to Societal Computing.
 
-<br />
-
 My life is continuously motivated by two ancient concepts of [Tyāga](https://en.wikipedia.org/wiki/Ty%C4%81ga) (Sanskrit: त्याग), which is a [Sanskrit](https://en.wikipedia.org/wiki/Sanskrit) word that means **sacrifice**, and [Tāpasya](https://www.wisdomlib.org/definition/tapasya) (Sanskrit: तपस्), which loosely translates to the art of self-control, and suffering physically and mentally to metamorphose our self. I try my best to follow them firmly.
+
+<br />
 
 <div class = "row">
  
