@@ -27,30 +27,36 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
 
 <tr>
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-      <a href="https://rbcdsai.iitm.ac.in/"><img src = "images/rbcdsai_logo.jpg" width="40%"></a>
+      <a href="https://saarland-informatics-campus.de/en/"><img src = "/images/logo_SIC.jpg" width="40%"></a>
     </td> 
   
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-      <a href="https://rbcdsai.iitm.ac.in/"><img src = "images/rbcdsai_logo.jpg" width="40%"></a>
+      <a href="https://www.uni-saarland.de/start.html"><img src = "images/Logo-Universität_des_Saarlandes.png" width="40%"></a>
     </td> 
 
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
         <a href="https://www.sonyresearchindia.com/"><img src = "images/sony-logo.png" width="40%"></a>
+    </td> 
+
+  <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
+      <a href="https://rbcdsai.iitm.ac.in/"><img src = "images/rbcdsai_logo.jpg" width="40%"></a>
     </td>     
 </tr>
 
 
 <tr>
-  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
+  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">HiWi-Societal computing<br>Saarland Informatik Campus<br>2023 - Present</td>
 
-  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
+  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Master, Visual computing<br>University of Saarland, Germnay<br>2023 - Present</td>
 
-  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
+  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)"> Health Data Science Researcher<br>SONY Research India<br>2022 - 2023</td>
+
+  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021 - 2022</td>
 </tr>
 
 <tr>
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-      <a href="https://rbcdsai.iitm.ac.in/"><img src = "images/rbcdsai_logo.jpg" width="40%"></a>
+      <a href="https://www.aiborne.tech/"><img src = "images/aiborne-tech-logo.png" width="40%"></a>
     </td> 
 
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
@@ -67,7 +73,7 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
 </tr>
 
 <tr>
-  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br>Robert Bosch Center of Data Science and AI, IIT Madras<br>2021-2022</td>
+  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Post-Bacc Fellowship<br> Deep Learning Software Engineer<br>Apr-May 2021</td>
 
   <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Research Intern<br>SPIRE Labs, IISc Bangalore<br>2020 - 2021</td>
 
