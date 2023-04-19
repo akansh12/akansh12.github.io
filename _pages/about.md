@@ -11,10 +11,10 @@ redirect_from:
 
 Hey, My name is Akansh Maurya. I am pursuing MS in [Visual Computing](https://www.mia.uni-saarland.de/mvc/index.shtml)  from the [University of Saarland](https://saarland-informatics-campus.de/en/). My research interest lies in the application of AI to solve real-world problems. Along with my studies, I am working as a HiWi (research assistant) under the guidance of [Prof. Ingmar Weber](https://ingmarweber.de/) on topics related to Societal Computing.
 
-My life is continuously motivated by two ancient concepts of [Tyāga](https://en.wikipedia.org/wiki/Ty%C4%81ga) (Sanskrit: त्याग), which is a [Sanskrit](https://en.wikipedia.org/wiki/Sanskrit) word that means **sacrifice**, and [Tāpasya](https://www.wisdomlib.org/definition/tapasya) (Sanskrit: तपस्), which loosely translates to the art of self-control, and suffering physically and mentally to metamorphose our self. I try my best to follow them firmly.
+My life is continuously motivated by two ancient concepts of [Tyāga](https://en.wikipedia.org/wiki/Ty%C4%81ga) (Sanskrit: त्याग), which is a Sanskrit word that means **sacrifice**, and [Tāpasya](https://www.wisdomlib.org/definition/tapasya) (Sanskrit: तपस्), which loosely translates to the art of self-control, and suffering physically and mentally to metamorphose our self. I try my best to follow them firmly.
 
 
-**Research interest**: Deep Learning, Computer vision, and the application of AI
+**Research interest**: Deep Learning, Computer Vision, and the application of AI.
 
 **Hobbies**: Badminton, [Chess](https://www.chess.com/stats/live/rapid/halfcursed/0), and running.
 
@@ -45,7 +45,7 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
 <tr>
   <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">HiWi-Societal computing<br>Saarland Informatik Campus<br>2023 - Present</td>
 
-  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Master, Visual computing<br>University of Saarland, Germnay<br>2023 - Present</td>
+  <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Master, Visual computing<br>University of Saarland, Germany<br>2023 - Present</td>
 
   <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)"> Health Data Science Researcher<br>SONY Research India<br>2022 - 2023</td>
 
