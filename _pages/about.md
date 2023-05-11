@@ -25,19 +25,19 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
 
 <tr>
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-      <a href="https://saarland-informatics-campus.de/en/"><img src = "/images/logo_SIC.jpg" width="40%"></a>
+      <a href="https://saarland-informatics-campus.de/en/"><img src = "/images/logo_SIC.jpg" width="80%"></a>
     </td> 
   
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-      <a href="https://www.uni-saarland.de/start.html"><img src = "images/Logo-Universität_des_Saarlandes.png" width="40%"></a>
+      <a href="https://www.uni-saarland.de/start.html"><img src = "images/Logo-Universität_des_Saarlandes.png" width="80%"></a>
     </td> 
 
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-        <a href="https://www.sonyresearchindia.com/"><img src = "images/sony-logo.png" width="40%"></a>
+        <a href="https://www.sonyresearchindia.com/"><img src = "images/sony-logo.png" width="80%"></a>
     </td> 
 
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-      <a href="https://rbcdsai.iitm.ac.in/"><img src = "images/rbcdsai_logo.jpg" width="40%"></a>
+      <a href="https://rbcdsai.iitm.ac.in/"><img src = "images/rbcdsai_logo.jpg" width="80%"></a>
     </td>     
 </tr>
 
