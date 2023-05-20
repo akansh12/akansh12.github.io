@@ -54,19 +54,19 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
 
 <tr>
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-      <a href="https://www.aiborne.tech/"><img src = "images/aiborne-tech-logo.png" width="40%"></a>
+      <a href="https://www.aiborne.tech/"><img src = "images/aiborne-tech-logo.png" width="80%"></a>
     </td> 
 
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-      <a href="https://spire.ee.iisc.ac.in/"><img src = "images/iisc_logo.jpg" width="40%"></a>
+      <a href="https://spire.ee.iisc.ac.in/"><img src = "images/iisc_logo.jpg" width="80%"></a>
     </td>
 
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-    <a href="https://www.iitb.ac.in/"><img src = "images/iit_logo.png" width="40%"></a>
+    <a href="https://www.iitb.ac.in/"><img src = "images/iit_logo.png" width="80%"></a>
   </td>
 
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-    <a href="https://www.ietlucknow.ac.in/"><img src = "images/iet_logo.png" width="40%"></a>
+    <a href="https://www.ietlucknow.ac.in/"><img src = "images/iet_logo.png" width="80%"></a>
   </td>
 </tr>
 
