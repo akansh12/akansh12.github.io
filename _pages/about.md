@@ -11,8 +11,7 @@ redirect_from:
 
 Hey, My name is Akansh Maurya. I am pursuing MS in [Visual Computing](https://www.mia.uni-saarland.de/mvc/index.shtml)  from the [University of Saarland](https://saarland-informatics-campus.de/en/). My research interest lies in the application of AI to solve real-world problems. Along with my studies, I am working as a HiWi (research assistant) under the guidance of [Prof. Ingmar Weber](https://ingmarweber.de/) on topics related to Societal Computing.
 
-My life is continuously motivated by two ancient concepts of [Tyāga](https://en.wikipedia.org/wiki/Ty%C4%81ga) (Sanskrit: त्याग), which is a Sanskrit word that means **sacrifice**, and [Tāpasya](https://www.wisdomlib.org/definition/tapasya) (Sanskrit: तपस्), which loosely translates to the art of self-control, and suffering physically and mentally to metamorphose our self. I try my best to follow them firmly.
-
+My life is continuously motivated by two ancient concepts of Tyāga (Sanskrit: त्याग), which is a Sanskrit word that means **sacrifice**, and Tāpasya (Sanskrit: तपस्), which loosely translates to the art of self-control, and suffering physically and mentally to metamorphose our self. I try my best to follow them firmly.
 
 **Research interest**: Deep Learning, Computer Vision, and the application of AI.
 
@@ -25,19 +24,19 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
 
 <tr>
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-      <a href="https://saarland-informatics-campus.de/en/"><img src = "/images/logo_SIC.jpg" width="80%"></a>
+      <a href="https://saarland-informatics-campus.de/en/"><img src = "/images/logo_SIC.jpg" width="60%"></a>
     </td> 
   
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-      <a href="https://www.uni-saarland.de/start.html"><img src = "images/Logo-Universität_des_Saarlandes.png" width="80%"></a>
+      <a href="https://www.uni-saarland.de/start.html"><img src = "images/Logo-Universität_des_Saarlandes.png" width="60%"></a>
     </td> 
 
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-        <a href="https://www.sonyresearchindia.com/"><img src = "images/sony-logo.png" width="80%"></a>
+        <a href="https://www.sonyresearchindia.com/"><img src = "images/sony-logo.png" width="60%"></a>
     </td> 
 
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-      <a href="https://rbcdsai.iitm.ac.in/"><img src = "images/rbcdsai_logo.jpg" width="80%"></a>
+      <a href="https://rbcdsai.iitm.ac.in/"><img src = "images/rbcdsai_logo.jpg" width="60%"></a>
     </td>     
 </tr>
 
@@ -54,19 +53,19 @@ My life is continuously motivated by two ancient concepts of [Tyāga](https://en
 
 <tr>
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-      <a href="https://www.aiborne.tech/"><img src = "images/aiborne-tech-logo.png" width="80%"></a>
+      <a href="https://www.aiborne.tech/"><img src = "images/aiborne-tech-logo.png" width="60%"></a>
     </td> 
 
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-      <a href="https://spire.ee.iisc.ac.in/"><img src = "images/iisc_logo.jpg" width="80%"></a>
+      <a href="https://spire.ee.iisc.ac.in/"><img src = "images/iisc_logo.jpg" width="60%"></a>
     </td>
 
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-    <a href="https://www.iitb.ac.in/"><img src = "images/iit_logo.png" width="80%"></a>
+    <a href="https://www.iitb.ac.in/"><img src = "images/iit_logo.png" width="60%"></a>
   </td>
 
   <td align="center" width="16%" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">
-    <a href="https://www.ietlucknow.ac.in/"><img src = "images/iet_logo.png" width="80%"></a>
+    <a href="https://www.ietlucknow.ac.in/"><img src = "images/iet_logo.png" width="60%"></a>
   </td>
 </tr>
 
