@@ -23,11 +23,11 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10230311/10230322/10230839/padhy1-p4-padhy-large.gif" class="teaser img-fluid z-depth-1">
+    <img src="images/miccai(1).png" class="teaser img-fluid z-depth-1">
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="images/miccai(1).png">A Study on Criteria for Training Collaborator Selection in Federated Learning
+    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-09002-8_41">A Study on Criteria for Training Collaborator Selection in Federated Learning
 </a></div>
     <div class="author"><strong>Akansh Maurya</strong>, Vishruth Shambhat, Shubham Subhas Danannavar, Rohit Kalla, Vikas Kumar Anand Ganapathy Krishnamurthi</div>
     <div class="periodical"><em>International MICCAI Brainlesion Workshop, BrainLes 2021</em></div>
@@ -35,7 +35,7 @@
 </div> 
 </li>
 
-<!-- <li>
+<li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -49,4 +49,4 @@
     <div class="periodical"><em>2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI) Cartagena, Colombia.</em></div>
   </div>
 </div> 
-</li> -->
+</li>
