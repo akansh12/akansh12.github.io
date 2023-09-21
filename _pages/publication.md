@@ -6,9 +6,9 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 225px;">
+  <!-- <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 225px;">
     <img src="images/img_parse.jpg" class="teaser img-fluid z-depth-1">
-  </div>
+  </div> -->
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10230839/">Parse Challenge 2022: Pulmonary Arteries Segmentation Using Swin U-net Transformer(Swin UNETR) and U-net
@@ -22,9 +22,9 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 225px;">
+  <!-- <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 225px;">
     <img src="images/miccai.png" class="teaser img-fluid z-depth-1">
-  </div>
+  </div> -->
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-09002-8_41">A Study on Criteria for Training Collaborator Selection in Federated Learning
@@ -38,9 +38,9 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 225px;">
+  <!-- <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 225px;">
     <img src="images/Thumb.png" class="teaser img-fluid z-depth-1">
-  </div>
+  </div> -->
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.authorea.com/doi/full/10.22541/au.164933883.36631178">A system for verifying non-standard personal identity documents using deep learning
