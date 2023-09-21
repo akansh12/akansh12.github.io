@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 100px;">
+  <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 225px;">
     <img src="images/img_parse.jpg" class="teaser img-fluid z-depth-1">
   </div>
 
@@ -22,7 +22,7 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 150px;">
+  <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 225px;">
     <img src="images/miccai.png" class="teaser img-fluid z-depth-1">
   </div>
 
@@ -38,7 +38,7 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 250px;">
+  <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 225px;">
     <img src="images/Thumb.png" class="teaser img-fluid z-depth-1">
   </div>
 

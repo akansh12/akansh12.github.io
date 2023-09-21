@@ -85,10 +85,10 @@ My life is continuously motivated by two ancient concepts of TyƒÅga (Sanskrit: ‡
 
 {% include_relative publication.md %}
 
-News and Talks
+<!-- News and Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
+ -->
 
