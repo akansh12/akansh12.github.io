@@ -83,7 +83,7 @@ My life is continuously motivated by two ancient concepts of TyÄga (Sanskrit: à
   
 </div>
 
-{% include_relative _pages/publication.md %}
+{% include_relative publication.md %}
 
 News and Talks
 ======
