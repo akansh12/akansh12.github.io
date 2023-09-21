@@ -46,7 +46,7 @@
     <div class="title"><a href="https://www.authorea.com/doi/full/10.22541/au.164933883.36631178">A system for verifying non-standard personal identity documents using deep learning
 </a></div>
     <div class="author"><strong>Akansh Maurya</strong>, Sudhanshu Dubey, Omkar Manjrekar, Andrea Furtado, Kavi Arya, P Amith</div>
-    <div class="periodical"><em>Authorea Preprints</em></div>
+    <div class="periodical"><em>Authorea Preprints 2021</em></div>
   </div>
 </div> 
 </li>
