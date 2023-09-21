@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px">
     <img src="images/img_parse.jpg" class="teaser img-fluid z-depth-1">
   </div>
 
