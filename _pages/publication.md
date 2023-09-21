@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-center: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 15px;">
     <img src="images/img_parse.jpg" class="teaser img-fluid z-depth-1">
   </div>
 
@@ -22,8 +22,8 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="images/miccai(1).png" class="teaser img-fluid z-depth-1">
+  <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 15px;">
+    <img src="images/miccai.png" class="teaser img-fluid z-depth-1">
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -38,14 +38,14 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 15px;">
     <img src="images/Thumb.png" class="teaser img-fluid z-depth-1">
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.authorea.com/doi/full/10.22541/au.164933883.36631178">A system for verifying non-standard personal identity documents using deep learning
 </a></div>
-    <div class="author"><strong>Akansh Maurya</strong>, Rohan Padhy, Subham Chakraborty, Kalluri Ramakrishna, Ganapathy Krishnamurthi</div>
+    <div class="author"><strong>Akansh Maurya</strong>, Sudhanshu Dubey, Omkar Manjrekar, Andrea Furtado, Kavi Arya, P Amith</div>
     <div class="periodical"><em>Authorea Preprints</em></div>
   </div>
 </div> 
