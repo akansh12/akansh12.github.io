@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 225px;">
-    <img src="https://github.com/akansh12/data-science-Optimal-EV-station-placement/raw/main/figures/overview.gif" class="teaser img-fluid z-depth-1", width="256", height="256">
+    <img src="https://github.com/akansh12/data-science-Optimal-EV-station-placement/raw/main/figures/overview.gif" class="teaser img-fluid z-depth-1" width="256" height="256">
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -23,7 +23,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: vertical-align: middle: 15px;padding-left: 225px;">
-    <img src="https://user-images.githubusercontent.com/39628860/258636542-70ee75f6-c5cc-4449-a63d-57640d32d049.gif" class="teaser img-fluid z-depth-1", width="256", height="256">
+    <img src="https://user-images.githubusercontent.com/39628860/258636542-70ee75f6-c5cc-4449-a63d-57640d32d049.gif" class="teaser img-fluid z-depth-1" width="256" height="256">
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
