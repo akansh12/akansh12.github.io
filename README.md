@@ -1,4 +1,4 @@
-# hewanshrestha.github.io
+# akansh12.github.io
 
 Personal homepage
 
