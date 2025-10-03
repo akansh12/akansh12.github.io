@@ -1,0 +1,479 @@
+/* https://newtodesing.com/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+
+
+/*Load google font*/
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Sans&display=swap');
+
+/* Reset Styles */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+a{
+	text-decoration: none;
+	text-transform: none;
+	color: #3482dc;
+}
+
+body {
+	line-height: 1;
+	font-family: 'Ubuntu Sans',sans-serif;
+	text-rendering : optimizeLegibility;
+	-webkit-font-smoothing : antialiased;
+	font-size: 16px;
+	background-color: #FEFEFE;
+	color: #04143A;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+p {
+	color: #15171a;
+	font-size: 16px;
+	line-height: 31px;
+}
+
+strong {
+	font-weight: 600;
+}
+
+div , footer {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+.section-title {
+	font-weight: bold;
+	font-size: 24px;
+	margin-bottom: 16px;
+}
+.sr {
+
+	.has-animations {
+
+		.is-revealing {
+			visibility: hidden;
+		}
+	}
+}
+
+/* Reset ends */
+
+
+/*Hero section*/
+
+.container {
+	max-width: 1100px;
+	height: auto;
+	margin: 60px auto;
+}
+
+.intro {
+	margin: 50px auto; 
+	position: relative;
+}
+
+h1.name {
+	font-size: 40px;
+	font-weight: 300;
+	display: inline-block;
+}
+
+.name-tw {
+	vertical-align: top;
+	font-weight: 300;
+	font-size: 30px;
+	margin-top: 5px;
+	margin-left: 5px;
+	border-radius: 5px;
+	display: inline-block;
+	padding: 5px 5px;
+}
+
+.job-title {
+	vertical-align: top;
+	background-color: #D9E7F8;
+	color: #4A90E2;
+	font-weight: 600;
+	margin-top: 5px;
+	margin-left: 20px;
+	border-radius: 5px;
+	display: inline-block;
+	padding: 15px 25px;
+}
+
+.email {
+	display: block;
+	font-size: 20px;
+	font-weight: 300;
+	color: #81899C;
+	margin-top: 10px;
+}
+
+.lead {
+	font-size: 22px;
+	font-weight: 350;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	line-height: 32px;
+}
+
+.intro p {
+	font-size: 16px;
+	margin-top: 20px;
+	margin-bottom: 16px;
+}
+
+/*intro ends*/
+
+/* Publications */
+
+.publication{
+	display: flex; 
+	align-items: center; 
+	margin-top: 40px;
+	margin-bottom: 40px;
+	font-size: 16px;
+	line-height: 26px;
+	/*justify-content: center;*/
+}
+
+.publication .title {
+	font-weight: bolder;
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #3482dc;
+}
+
+.publication .author {
+	/* font-style: italic; */
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.publication .author a {
+	color: black;
+}
+
+.publication .venue {
+	/* font-weight: bolder; */
+	font-style: normal;
+	color: red;  /* #4A90E2; /* #5B6A9A; */
+	margin-top: 0;
+	margin-bottom: 6px;
+}
+
+.publication img {
+	width: 100%;
+	height: auto;
+}
+
+.publication a {
+	margin-bottom: 10px;
+}
+
+
+/* publications ends */
+
+/* Achievements */
+
+
+.cards {
+	max-width: 1120px;
+	display: block;
+	margin-top: 280px;
+}
+
+.card {
+	width: 47.9%;
+	height: 200px;
+	background-color: #EEF0F7;
+	display: inline-block;
+	margin: 7px 5px;
+	vertical-align: top;
+	border-radius: 10px;
+	text-align: center;
+	padding-top: 50px
+}
+
+.card-active , .card:hover{
+	transform: scale(1.02);
+	transition: 0.5s;
+	background-color: #fff;
+	box-shadow: 0px 5px 50px -8px #ddd;
+	cursor: pointer;
+}
+
+.btn {
+	background-color: #EEF0F7;
+	display: inline-block;
+	margin: 0px 4px 0px 0px;
+	vertical-align: top;
+	border-radius: 8px;
+	text-align: center;
+	padding: 4px 8px 4px 8px;
+	font-size: 14px;
+}
+
+.btn-active , .btn:hover{
+	transform: scale(1.02);
+	transition: 0.5s;
+	background-color: #fff;
+	box-shadow: 0px 5px 50px -8px #ddd;
+	cursor: pointer;
+	font-size: 14px;
+}
+
+/* Timeline styles*/
+
+
+ol {
+	position: relative;
+	display: block;
+	list-style: inside;
+	text-align: center;
+	
+	/* margin: 20px 0; */
+	/* height: 2px; */
+	/* background: #EEF0F7; */
+
+}
+ol::before,
+ol::after {
+	/* content: ""; */
+	/* position: absolute; */
+	top: -10px;
+	display: block;
+	width: 0;
+	height: 0;
+  	border-radius: 10px;
+	border: 0px solid #31708F;
+	text-align: center;
+}
+ol::before {
+	/* left: -5px; */
+}
+ol::after {
+	/* right: -10px; */
+	border: 0px solid transparent;
+	border-right: 0;
+	/* border-left: 20px solid #31708F; */
+  	border-radius: 3px;
+}
+
+/* ---- Timeline elements ---- */
+
+.timeline {
+    display: flex;
+    justify-content: space-between; /* Ensures uniform spacing */
+    align-items: stretch; /* Makes all items the same height */
+    flex-wrap: wrap; /* Allows wrapping if needed */
+    gap: 15px; /* Reduces space between elements */
+}
+
+li {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; /* Centers content */
+    width: 22%; /* Ensures uniform width */
+    max-width: 160px; /* Keeps uniform size */
+    min-height: 150px; /* Reduces excess height */
+    padding: 10px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+/* Hover effect: Glow in white */
+li:hover {
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.9);
+}
+
+/* Allow logo size control from HTML */
+li .logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%; /* Adjust based on container */
+    max-width: 120px; /* Prevents too large images */
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Ensure text stays close to the logo */
+li .description {
+    display: block;
+    text-align: center;
+    font-size: 13.8px;
+    font-weight: 500;
+    line-height: 18px;
+    color: #5B6A9A;
+    margin-top: 15px; /* Removes unnecessary space */
+    padding: 0 5px; /* Keeps text from touching edges */
+}
+
+
+/*timeline ends*/
+
+
+
+/* Media queries*/
+
+@media(max-width: 1024px){
+	.container {
+		padding: 15px;
+		margin: 0px auto;
+	}
+	.cards {
+		margin-top: 250px;
+	}
+	.btn {
+		margin-bottom: 10px;
+	}
+	.publication {
+		margin-bottom: 48px;
+	}
+}
+
+@media(max-width: 768px){
+	.container {
+		padding: 15px;
+		margin: 0px auto;
+	}
+	.cards {
+		margin-top: 320px;
+	}
+
+	.card {
+		padding: 15px;
+		text-align: left;
+	}
+	.card h2 {
+		font-size: 70px;
+	}
+		.card , .sections {
+		width: 100%;
+		height: auto;
+		margin: 10px 0;
+		float: left;
+	}
+
+	.timeline{
+		border: none;
+		background-color: rgba(0,0,0,0);
+	}
+
+	.timeline li{
+		margin-top: 70px;
+		height: 150px;
+	}
+
+	li .logo {
+        width: 70%;
+        max-width: 100px;
+    }
+}
+
+
+@media(max-width: 425px) {
+	h1.name {
+		font-size: 40px;
+	}
+
+	.card , .sections {
+		width: 100%;
+		height: auto;
+		margin: 10px 0;
+		float: left;
+	}
+
+	.timeline{
+		display: none;
+		}
+
+
+	li .logo {
+			width: 60%;
+			max-width: 80px;
+		}
+		
+	.job-title {
+		position: absolute;
+		font-size: 15px;
+		top: -40px;
+		right: 20px;
+		padding: 10px
+	}
+
+	.lead {
+		margin-top: 15px;
+		font-size: 18px;
+		line-height: 28px;
+	}
+	.container {
+		margin: 0px;
+		padding: 0 15px;
+	}
+	footer {
+		margin-top: 2050px;
+	}
+}
+
+.globe-container {
+	width: 150px; /* Adjust the width as needed */
+	height: 150px; /* Adjust the height as needed */
+	margin: 0 auto; /* Center the container */
+	overflow: hidden; /* Ensure the globe doesn't overflow the container */
+}
+
+.globe-container iframe {
+    width: 100% !important;
+    height: 100% !important;
+    border: none; /* Remove iframe border if present */
+}
+
+/* End of all
